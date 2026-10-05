@@ -4,7 +4,7 @@ Each query counts NYT articles per year that match the terms. Notes on the API (
 - q with several words behaves like AND ("cybersecurity workers" = both words), quoted phrases work,
   and OR / body: filters are NOT supported, so each term is its own series.
 - Rate limit is ~5 requests/minute, so the script sleeps 12.5s between calls and is resumable:
-  it skips (series, year) pairs already saved and stops after ~13 calls per run (fits one 3-minute window).
+  it skips (series, year) pairs already saved and stops after a small batch of calls per run (the API is rate-limited).
 - No usable yearly total: q=* returns 0, an empty q is capped at 10,000 hits, and 'the' is treated as a stopword.
   So counts are raw. We read timing (onset and inflection), not levels.
 Output: data/processed/nyt_counts.csv

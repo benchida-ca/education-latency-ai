@@ -20,6 +20,7 @@ I designed the questions, definitions, and judgment calls. An AI coding agent (C
 - `DECISIONS.md` lists the judgment calls I made and why.
 - `notes/lab-notebook.md` is the running log: what was tried, what broke, and the 12 data traps found and fixed.
 - `WALKTHROUGH.md` is a plain-English guide to every script.
+- `HAND_VALIDATION.md` records the hand check of 8 universities behind Finding 5.
 - Each script opens with a plain-English description of what it does.
 
 ## Repository map
@@ -36,7 +37,7 @@ I designed the questions, definitions, and judgment calls. An AI coding agent (C
 | `scripts/16` | Confidence intervals and sensitivity table |
 | `data/processed/` | Every derived table the note cites |
 | `data/wayback/` | University-sample coding and Internet Archive evidence |
-| `output/` | Charts, intervals, sensitivity |
+| `output/` | Charts, intervals, sensitivity. Charts marked "prototype" or "preliminary" are early working versions; the note's figures are final. |
 
 ## Sources
 

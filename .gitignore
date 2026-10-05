@@ -8,3 +8,4 @@ data/raw/
 # Working drafts of the note; only the final PDF is published
 Research Note/
 ~$*
+data/wayback/test_*.txt

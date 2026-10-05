@@ -20,7 +20,7 @@ ax1.plot(n.index, n.cyber_workers, color=AQUA, lw=2); ax1.text(2024.3, n.cyber_w
 ax1.plot(n.index, n.computer_security_phrase, color=INK2, lw=1.2, ls=(0, (2, 2))); ax1.text(1990.2, 140, "'computer security' (older term)", color=INK2, fontsize=8.5)
 ax1.set_ylabel("NYT articles per year", color=INK2, fontsize=9)
 ax1.set_title("Felt need: New York Times coverage", color=INK, fontsize=10.5, loc="left")
-ax1.text(2010.3, 380, "Ben's felt-need anchor (~2010)", color=INK2, fontsize=8.5)
+ax1.text(2010.3, 380, "Felt-need anchor (~2010)", color=INK2, fontsize=8.5)
 ax2.plot(a.index, a.access_share * 100, color=ORANGE, lw=2, marker="o", ms=3.5)
 ax2.axhline(50, color=INK2, lw=1, ls=(0, (1, 2))); ax2.text(1990.2, 52, "Median learner (50%)", color=INK2, fontsize=8.5)
 ax2.set_ylim(0, 100); ax2.set_ylabel("% of community-college learners\nat a college awarding a cyber credential", color=INK2, fontsize=9)

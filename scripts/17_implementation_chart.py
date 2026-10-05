@@ -1,4 +1,4 @@
-"""Step 17: Finding 3 chart (Oct 5 redline). Both cases on one calendar axis, with felt-need bands from Finding 1
+"""Step 17: Finding 3 chart. Both cases on one calendar axis, with felt-need bands from Finding 1
 and the latency to the median learner. Shares are the access-weighted series behind Finding 3 (same numbers as script 10)."""
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt

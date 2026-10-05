@@ -1,4 +1,4 @@
-"""EXERCISE (for Ben): change a judgment call yourself and see what moves.
+"""EXERCISE: change a judgment call yourself and see what moves.
 
 Edit the two settings below, save, and run:   python3 scripts/exercise_my_definition.py
 It prints, for each year, the share of community-college learners at a college that awarded a credential
