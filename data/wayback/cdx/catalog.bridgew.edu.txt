@@ -1,0 +1,4 @@
+20250113133603 https://catalog.bridgew.edu/widget-api/catalog/17/programs/?page-size=100&page=1&name=Cybercriminology%20and%20Cybersecurity%2C%20Graduate%20Certificate
+20260302131942 https://catalog.bridgew.edu/widget-api/catalog/20/programs/?page-size=100&page=1&name=Cybercriminology%20and%20Cybersecurity%2C%20Graduate%20Certificate
+20260302131943 https://catalog.bridgew.edu/widget-api/catalog/20/programs/?page-size=100&page=1&name=Cybersecurity%20and%20Justice%2C%20MS
+20260814122306 https://catalog.bridgew.edu/widget-api/catalog/22/programs/?page-size=100&page=1&name=Cybersecurity%20and%20Digital%20Forensics%20Minor

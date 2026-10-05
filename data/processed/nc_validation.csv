@@ -1,0 +1,15 @@
+college,program,ncccs_code,approval_date,approval_type,ipeds_code,ipeds_first_award,ipeds_last_award,approval_to_first_award_years,note
+Gaston College,Information Systems Security,A25270,2007-01-19,special,11.1003,2009,,2,
+Cleveland Community College,Information Systems Security,A25270,2007-07-20,special,11.1003,2011,,4,
+Catawba Valley Community College,Information Systems Security,A25270,2007-08-17,special,11.1003,2010,,3,
+Central Piedmont Community College,ISS/Security Hardware,A2527B,2007-08-17,special,11.1003,2008,,1,
+Stanly Community College,Cyber Crime Technology,A55210,2007-11-16,standard,43.0116,2010,2019,3,43.0116 code only exists from 2010; may understate
+Guilford Technical Community College,Cyber Crime Technology,A55210,2008-06-20,standard,43.0116,2011,2019,3,
+Edgecombe Community College,Cyber Crime Technology,A55210,2010-05-21,standard,none,,,,approved but no cyber-coded completers 2010-2024
+Pamlico Community College,Information Systems Security,A25270,2010-09-20,special,none,,,,approved but no completers 2010-2024
+Guilford Technical Community College,Information Systems Security,A25270,2011-01-20,special,11.1003,2012,2018,1,
+Surry Community College,Information Systems Security,A25270,2011-02-18,special,11.1003,2013,,2,
+Forsyth Technical Community College,Cyber Crime Technology,A55210,2011-07-15,traditional,43.0116,,,,check; Forsyth already had 11.1003 from 2010
+Johnston Community College,Information Systems Security,A25270,2012-07-20,special,11.1003,2016,2016,4,single year of completers
+Wayne Community College,Information Systems Security (TERMINATION),A25270,2011-04-15,termination,11.1003,2009,2013,,teach-out visible: last award 2013
+Pitt Community College,Information Systems Security (TERMINATION),A25270,2013-03-14,termination,11.1003,2008,2013,,"terminated: 'not offered recently due to economic trends'"

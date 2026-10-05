@@ -1,0 +1,14 @@
+20231202151505 https://www.delhi.edu/ceps/project-excite/certified-information-security-manager.php
+20231202145630 https://www.delhi.edu/ceps/project-excite/information-security-training.php
+20040907104537 http://www.delhi.edu:80/cis/delhi_cyber_community/
+20060908215638 http://www.delhi.edu/cis/delhi_cyber_community.asp
+20250528155837 https://www.delhi.edu/cis/delhi_cyber_community.php
+20231201192502 https://www.delhi.edu/continuinged/project-excite/certified-information-security-manager.php
+20231201201827 https://www.delhi.edu/continuinged/project-excite/information-security-training.php
+20210430071428 https://www.delhi.edu/images/Cyber-operations-associate.jpg
+20201216210040 https://www.delhi.edu/images/Cyber-operations-bachelor.jpg
+20050308165216 http://www.delhi.edu:80/news/includes/Press%20Releases/2003-2004/Clinton%20CyberCommunity%20Release%20Dec.%202003.pdf
+20060909011445 http://www.delhi.edu/news/Press%20Releases/2003-2004/Clinton%20CyberCommunity%20Release%20Dec.%202003.pdf
+20060909011323 http://www.delhi.edu/news//Press%20Releases/2004-2005/CyberCommunity%20Microsoft%20Donation%20May%202005.pdf
+20100528052822 http://www.delhi.edu/news_and_events/2004/Clinton_CyberCommunity_Release_Dec_2003.pdf
+20100528053119 http://www.delhi.edu/news_and_events/2005/CyberCommunity_Microsoft_Donation_May_2005.pdf

@@ -1,0 +1,22 @@
+case,date,event,layer,type,confidence,source
+networking,1993,NSF Advanced Technological Education (ATE) program begins (authorized by Scientific and Advanced-Technology Act of 1992); funds community-college technician education incl. IT,federal,program,medium,ATE Central 'Two Decades of Advancing Technological Education'
+networking,1997,Cisco Networking Academy launched (industry certification channel),industry,program,high,"Cisco newsroom 2003-05 'Five Years of Success' (launched 1997; >10,000 academies, 468K students worldwide by 2003)"
+networking,1998-10,American Competitiveness and Workforce Improvement Act (ACWIA): H-1B fee funds DOL technical skills training grants,federal,law,high,DOL H-1B training evaluation (Barnow); House Judiciary hearing
+networking,1998-08-07,Workforce Investment Act (general workforce system),federal,law,high,"WIA enacted Aug 7, 1998"
+networking,2000,First DOL H-1B Technical Skills Training Grants awarded (computer-related training at all sites),federal,program,high,DOL H-1B training evaluation (Barnow)
+networking,2000-10-17,AC21 (American Competitiveness in the 21st Century Act) raises H-1B cap,federal,law,high,"Signed Oct 17, 2000; raised H-1B fee $500->$1,000 for domestic tech-skills training"
+cyber,1998-05-22,PDD-63 Critical Infrastructure Protection,federal,executive,high,"FAS copy of PDD-63 (May 22, 1998); includes education/awareness and academic-curriculum tasks"
+cyber,1999-05-11,NSA designates first 7 Centers of Academic Excellence in Information Assurance Education (all universities),federal,program,high,NSA press release 1999-05-11
+cyber,2000,CyberCorps Scholarship for Service created (Federal Cyber Service Training & Education Initiative; NSF/DHS); first grants 2001 to 4 schools,federal,program,high,OPM SFS History
+cyber,2002-11-27,Cyber Security Research and Development Act (NSF cyber education/capacity grants),federal,law,high,"NIST CSRC: P.L. 107-305, Nov 27, 2002"
+cyber,2003-02,National Strategy to Secure Cyberspace,federal,executive,medium-high,Widely documented Feb 2003 release (CRS RL30153 context)
+cyber,2008-01,Comprehensive National Cybersecurity Initiative (CNCI) - Initiative 8 seeds NICE,federal,executive,high,NIST NICE retrospective
+cyber,2010,CAE2Y (two-year/community college) designation: pilot year completed; 6 community colleges designated,federal,program,high,NSA CAE fact sheet 2010
+cyber,2010,National Initiative for Cybersecurity Education (NICE) launched (NIST lead),federal,program,high,NIST
+cyber,2011,TAACCCT community-college grants begin (DOL/ED; ~$1.9B over 4 rounds through 2014; some IT/cyber programs),federal,program,medium,DOL TAACCCT annual reports
+cyber,2014-12,Cybersecurity Enhancement Act of 2014 (codifies NICE awareness/education; SFS Sec. 302),federal,law,high,OPM SFS History; NIST NICE retrospective
+cyber,2016,DOL first Federal Register document mentioning cybersecurity,federal,signal,high,Federal Register API (this project)
+cyber,2017-08,NICE Cybersecurity Workforce Framework (NIST SP 800-181),federal,standard,medium-high,NIST SP 800-181 (Aug 2017); exact date not re-fetched
+cyber,2019,DOL Employment & Training Administration first Federal Register document mentioning cybersecurity,federal,signal,high,Federal Register API (this project)
+cyber,2019-05-02,Executive Order 13870 America's Cybersecurity Workforce,federal,executive,high,NIST news 2019-05; Federal Register 2019-05-09
+cyber,2023-07-31,National Cyber Workforce and Education Strategy,federal,executive,high,White House NCWES PDF dated 2023-07-31

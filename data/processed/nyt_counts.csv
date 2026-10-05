@@ -1,0 +1,211 @@
+series,query,year,hits
+cybersecurity,cybersecurity,1990,0
+cybersecurity,cybersecurity,1991,0
+cybersecurity,cybersecurity,1992,0
+cybersecurity,cybersecurity,1993,0
+cybersecurity,cybersecurity,1994,0
+cybersecurity,cybersecurity,1995,0
+cybersecurity,cybersecurity,1996,0
+cybersecurity,cybersecurity,1997,0
+cybersecurity,cybersecurity,1998,0
+cybersecurity,cybersecurity,1999,1
+cybersecurity,cybersecurity,2000,6
+cybersecurity,cybersecurity,2001,14
+cybersecurity,cybersecurity,2002,26
+cybersecurity,cybersecurity,2003,25
+cybersecurity,cybersecurity,2004,13
+cybersecurity,cybersecurity,2005,11
+cybersecurity,cybersecurity,2006,21
+cybersecurity,cybersecurity,2007,7
+cybersecurity,cybersecurity,2008,9
+cybersecurity,cybersecurity,2009,73
+cybersecurity,cybersecurity,2010,46
+cybersecurity,cybersecurity,2011,58
+cybersecurity,cybersecurity,2012,91
+cybersecurity,cybersecurity,2013,167
+cybersecurity,cybersecurity,2014,184
+cybersecurity,cybersecurity,2015,244
+cybersecurity,cybersecurity,2016,176
+cybersecurity,cybersecurity,2017,325
+cybersecurity,cybersecurity,2018,305
+cybersecurity,cybersecurity,2019,338
+cybersecurity,cybersecurity,2020,397
+cybersecurity,cybersecurity,2021,355
+cybersecurity,cybersecurity,2022,266
+cybersecurity,cybersecurity,2023,190
+cybersecurity,cybersecurity,2024,246
+cyber_security_phrase,"""cyber security""",1990,0
+cyber_security_phrase,"""cyber security""",1991,0
+cyber_security_phrase,"""cyber security""",1992,0
+cyber_security_phrase,"""cyber security""",1993,0
+cyber_security_phrase,"""cyber security""",1994,0
+cyber_security_phrase,"""cyber security""",1995,0
+cyber_security_phrase,"""cyber security""",1996,0
+cyber_security_phrase,"""cyber security""",1997,0
+cyber_security_phrase,"""cyber security""",1998,0
+cyber_security_phrase,"""cyber security""",1999,2
+cyber_security_phrase,"""cyber security""",2000,6
+cyber_security_phrase,"""cyber security""",2001,3
+cyber_security_phrase,"""cyber security""",2002,4
+cyber_security_phrase,"""cyber security""",2003,6
+cyber_security_phrase,"""cyber security""",2004,7
+cyber_security_phrase,"""cyber security""",2005,1
+cyber_security_phrase,"""cyber security""",2006,4
+cyber_security_phrase,"""cyber security""",2007,6
+cyber_security_phrase,"""cyber security""",2008,6
+cyber_security_phrase,"""cyber security""",2009,21
+cyber_security_phrase,"""cyber security""",2010,7
+cyber_security_phrase,"""cyber security""",2011,17
+cyber_security_phrase,"""cyber security""",2012,15
+cyber_security_phrase,"""cyber security""",2013,9
+cyber_security_phrase,"""cyber security""",2014,9
+cyber_security_phrase,"""cyber security""",2015,14
+cyber_security_phrase,"""cyber security""",2016,16
+cyber_security_phrase,"""cyber security""",2017,23
+cyber_security_phrase,"""cyber security""",2018,18
+cyber_security_phrase,"""cyber security""",2019,34
+cyber_security_phrase,"""cyber security""",2020,17
+cyber_security_phrase,"""cyber security""",2021,9
+cyber_security_phrase,"""cyber security""",2022,4
+cyber_security_phrase,"""cyber security""",2023,3
+cyber_security_phrase,"""cyber security""",2024,7
+computer_security_phrase,"""computer security""",1990,26
+computer_security_phrase,"""computer security""",1991,11
+computer_security_phrase,"""computer security""",1992,6
+computer_security_phrase,"""computer security""",1993,8
+computer_security_phrase,"""computer security""",1994,22
+computer_security_phrase,"""computer security""",1995,47
+computer_security_phrase,"""computer security""",1996,32
+computer_security_phrase,"""computer security""",1997,24
+computer_security_phrase,"""computer security""",1998,46
+computer_security_phrase,"""computer security""",1999,84
+computer_security_phrase,"""computer security""",2000,131
+computer_security_phrase,"""computer security""",2001,94
+computer_security_phrase,"""computer security""",2002,97
+computer_security_phrase,"""computer security""",2003,108
+computer_security_phrase,"""computer security""",2004,81
+computer_security_phrase,"""computer security""",2005,84
+computer_security_phrase,"""computer security""",2006,140
+computer_security_phrase,"""computer security""",2007,55
+computer_security_phrase,"""computer security""",2008,94
+computer_security_phrase,"""computer security""",2009,64
+computer_security_phrase,"""computer security""",2010,75
+computer_security_phrase,"""computer security""",2011,74
+computer_security_phrase,"""computer security""",2012,98
+computer_security_phrase,"""computer security""",2013,98
+computer_security_phrase,"""computer security""",2014,87
+computer_security_phrase,"""computer security""",2015,50
+computer_security_phrase,"""computer security""",2016,38
+computer_security_phrase,"""computer security""",2017,42
+computer_security_phrase,"""computer security""",2018,35
+computer_security_phrase,"""computer security""",2019,20
+computer_security_phrase,"""computer security""",2020,17
+computer_security_phrase,"""computer security""",2021,15
+computer_security_phrase,"""computer security""",2022,7
+computer_security_phrase,"""computer security""",2023,5
+computer_security_phrase,"""computer security""",2024,0
+cyber_workers,cybersecurity workers,1990,6583
+cyber_workers,cybersecurity workers,1991,6505
+cyber_workers,cybersecurity workers,1992,7158
+cyber_workers,cybersecurity workers,1993,7261
+cyber_workers,cybersecurity workers,1994,6833
+cyber_workers,cybersecurity workers,1995,6744
+cyber_workers,cybersecurity workers,1996,6790
+cyber_workers,cybersecurity workers,1997,6733
+cyber_workers,cybersecurity workers,1998,6748
+cyber_workers,cybersecurity workers,1999,6925
+cyber_workers,cybersecurity workers,2000,7665
+cyber_workers,cybersecurity workers,2001,10000
+cyber_workers,cybersecurity workers,2002,2
+cyber_workers,cybersecurity workers,2003,3
+cyber_workers,cybersecurity workers,2004,1
+cyber_workers,cybersecurity workers,2005,1
+cyber_workers,cybersecurity workers,2006,8
+cyber_workers,cybersecurity workers,2007,1
+cyber_workers,cybersecurity workers,2008,4
+cyber_workers,cybersecurity workers,2009,8
+cyber_workers,cybersecurity workers,2010,6
+cyber_workers,cybersecurity workers,2011,4
+cyber_workers,cybersecurity workers,2012,9
+cyber_workers,cybersecurity workers,2013,17
+cyber_workers,cybersecurity workers,2014,20
+cyber_workers,cybersecurity workers,2015,36
+cyber_workers,cybersecurity workers,2016,22
+cyber_workers,cybersecurity workers,2017,47
+cyber_workers,cybersecurity workers,2018,55
+cyber_workers,cybersecurity workers,2019,82
+cyber_workers,cybersecurity workers,2020,95
+cyber_workers,cybersecurity workers,2021,80
+cyber_workers,cybersecurity workers,2022,72
+cyber_workers,cybersecurity workers,2023,31
+cyber_workers,cybersecurity workers,2024,50
+it_workers_phrase,"""information technology workers""",1990,0
+it_workers_phrase,"""information technology workers""",1991,0
+it_workers_phrase,"""information technology workers""",1992,1
+it_workers_phrase,"""information technology workers""",1993,0
+it_workers_phrase,"""information technology workers""",1994,0
+it_workers_phrase,"""information technology workers""",1995,0
+it_workers_phrase,"""information technology workers""",1996,0
+it_workers_phrase,"""information technology workers""",1997,1
+it_workers_phrase,"""information technology workers""",1998,3
+it_workers_phrase,"""information technology workers""",1999,0
+it_workers_phrase,"""information technology workers""",2000,12
+it_workers_phrase,"""information technology workers""",2001,6
+it_workers_phrase,"""information technology workers""",2002,2
+it_workers_phrase,"""information technology workers""",2003,6
+it_workers_phrase,"""information technology workers""",2004,5
+it_workers_phrase,"""information technology workers""",2005,0
+it_workers_phrase,"""information technology workers""",2006,2
+it_workers_phrase,"""information technology workers""",2007,1
+it_workers_phrase,"""information technology workers""",2008,4
+it_workers_phrase,"""information technology workers""",2009,5
+it_workers_phrase,"""information technology workers""",2010,1
+it_workers_phrase,"""information technology workers""",2011,1
+it_workers_phrase,"""information technology workers""",2012,0
+it_workers_phrase,"""information technology workers""",2013,3
+it_workers_phrase,"""information technology workers""",2014,3
+it_workers_phrase,"""information technology workers""",2015,3
+it_workers_phrase,"""information technology workers""",2016,4
+it_workers_phrase,"""information technology workers""",2017,2
+it_workers_phrase,"""information technology workers""",2018,2
+it_workers_phrase,"""information technology workers""",2019,0
+it_workers_phrase,"""information technology workers""",2020,1
+it_workers_phrase,"""information technology workers""",2021,0
+it_workers_phrase,"""information technology workers""",2022,3
+it_workers_phrase,"""information technology workers""",2023,2
+it_workers_phrase,"""information technology workers""",2024,0
+network_admin,"""network administrators""",1990,1
+network_admin,"""network administrators""",1991,2
+network_admin,"""network administrators""",1992,11
+network_admin,"""network administrators""",1993,0
+network_admin,"""network administrators""",1994,3
+network_admin,"""network administrators""",1995,4
+network_admin,"""network administrators""",1996,3
+network_admin,"""network administrators""",1997,1
+network_admin,"""network administrators""",1998,2
+network_admin,"""network administrators""",1999,8
+network_admin,"""network administrators""",2000,12
+network_admin,"""network administrators""",2001,9
+network_admin,"""network administrators""",2002,10
+network_admin,"""network administrators""",2003,14
+network_admin,"""network administrators""",2004,3
+network_admin,"""network administrators""",2005,2
+network_admin,"""network administrators""",2006,2
+network_admin,"""network administrators""",2007,1
+network_admin,"""network administrators""",2008,12
+network_admin,"""network administrators""",2009,1
+network_admin,"""network administrators""",2010,1
+network_admin,"""network administrators""",2011,1
+network_admin,"""network administrators""",2012,1
+network_admin,"""network administrators""",2013,0
+network_admin,"""network administrators""",2014,0
+network_admin,"""network administrators""",2015,0
+network_admin,"""network administrators""",2016,0
+network_admin,"""network administrators""",2017,0
+network_admin,"""network administrators""",2018,0
+network_admin,"""network administrators""",2019,2
+network_admin,"""network administrators""",2020,0
+network_admin,"""network administrators""",2021,0
+network_admin,"""network administrators""",2022,0
+network_admin,"""network administrators""",2023,0
+network_admin,"""network administrators""",2024,1

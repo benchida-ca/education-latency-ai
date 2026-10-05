@@ -1,0 +1,5 @@
+measure,k,n,pct,ci95_low,ci95_high
+Universities with a credit-bearing cyber credential,37,50,74,60,84
+"Of those, never under federal cyber codes through 2024",7,37,19,9,34
+"Of those, hidden beyond normal lag or entirely (at least)",15,37,41,26,57
+"Of independently dated & visible, lag > 3 years",8,18,44,25,66

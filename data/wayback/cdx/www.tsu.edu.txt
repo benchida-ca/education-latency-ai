@@ -1,0 +1,11 @@
+20221128072331 http://www.tsu.edu/_content_blocks/home/cyber-monday-sale-banner.jpg
+20230323175112 https://www.tsu.edu/about/administration/department-of-audit-compliance/office-of-information-security/
+20190819171254 http://www.tsu.edu/about/administration/department-of-audit-compliance/office-of-information-security/index.html
+20151019071328 http://www.tsu.edu/about/administration/institutional-effectiveness/assessments/pdf/administrative-units-2010-2013/oit-information-security1.pdf
+20230701041015 https://www.tsu.edu/about/administration/office-of-information-technology/information-security/
+20230926014357 https://www.tsu.edu/about/administration/office-of-information-technology/information-security/microsoft-authenticator-app-setup
+20230926021423 https://www.tsu.edu/about/administration/office-of-information-technology/information-security/self-service-password-reset-guide
+20230801020950 https://www.tsu.edu/news/2022/09/texas-southern-university-teams-with-ibm-to-address-cybersecurity-talent-shortage
+20221201001416 http://www.tsu.edu/news/2022/09/texas-southern-university-teams-with-ibm-to-address-cybersecurity-talent-shortage.html
+20260510104737 https://www.tsu.edu/oit/information-security/index.php
+20250914123615 https://tsu.edu/oit/information-security/microsoft-authenticator-app-setup.php

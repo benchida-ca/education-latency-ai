@@ -1,0 +1,9 @@
+20231003080100 https://nevadastate.edu/college-policies/information-security-plan/
+20250328094909 https://nevadastate.edu/college-policies/information-security-plan/feed/
+20240802015633 https://nevadastate.edu/policy/current/information-security-plan/
+20231208184728 https://nevadastate.edu/university-policies/information-security-plan/
+20240606022017 https://nevadastate.edu/wp-content/uploads/2023/08/5.1.2-Information-Security-Plan.pdf
+20251225193143 https://nevadastate.edu/wp-content/uploads/2024/08/5.1.2-Information-Security-Plan.pdf
+20250922175958 https://nevadastate.edu/wp-content/uploads/2025/05/5.1.2-Information-Security-Plan.pdf
+20240802024650 https://nevadastate.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnevadastate.edu%2Fpolicy%2Fcurrent%2Finformation-security-plan%2F&format=xml
+20240802022924 https://nevadastate.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnevadastate.edu%2Fpolicy%2Fcurrent%2Finformation-security-plan%2F

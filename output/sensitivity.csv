@@ -1,0 +1,11 @@
+varied,setting,median_year,share_2024
+measure,annual,2023.0,0.56
+measure,cumulative,2020.0,0.66
+code definition,"Core: 11.1003, 43.0116/43.0403, 43.0404 (headline)",2023.0,0.56
+code definition,Narrow: 11.1003 only,2023.0,0.53
+code definition,Broad: core + 43.0303 critical infrastructure,2023.0,0.56
+code definition,Very broad: core + networking codes,2009.0,0.74
+institution frame,"Community colleges, incl. bachelor's-granting (headline)",2023.0,0.56
+institution frame,Public 2-year sector only,2024.0,0.52
+institution frame,All public + nonprofit institutions,2024.0,0.5
+institution frame,All institutions incl. for-profit,,0.48

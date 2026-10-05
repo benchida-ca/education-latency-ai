@@ -1,0 +1,115 @@
+unitid,instnm,host,status,n_urls,earliest_any,earliest_prog,earliest_prog_url
+182281,University of Nevada-Las Vegas,catalog.unlv.edu,ok,0,,,
+182281,University of Nevada-Las Vegas,www.unlv.edu,ok,174,20001119,20031215,http://www.unlv.edu:80/Colleges/Education/CI/documents/fasttrack/ft_htm/ftinfosec.htm
+174233,University of Minnesota-Duluth,catalog.umn.edu,ok,0,,,
+174233,University of Minnesota-Duluth,d.umn.edu,ok,14,19970218,20021208,http://www.d.umn.edu:80/~xuxx0102/cs4821/CyberPatrol%20Sues%20Hackers%20Who%20Broke%20Into%20Filter%20Program.txt
+228787,The University of Texas at Dallas,catalog.utdallas.edu,ok,33,20170616,20170616,http://catalog.utdallas.edu:80/2017/graduate/programs/jsom/certificate-in-cybersecurity-systems
+228787,The University of Texas at Dallas,www.utdallas.edu,ok,461,19990913,20011208,http://www.utdallas.edu:80/~huayu/Cyberminor.htm
+139719,Fort Valley State University,catalog.fvsu.edu,ok,0,,,
+139719,Fort Valley State University,www.fvsu.edu,ok,5,20150714,20150714,http://www2.fvsu.edu/fvsu-to-start-cybersecurity-minor/
+409698,California State University-Monterey Bay,catalog.csumb.edu,ok,0,,,
+409698,California State University-Monterey Bay,www.csumb.edu,ok,69,20150402,20150910,https://csumb.edu/it/information-security-program
+199148,University of North Carolina at Greensboro,catalog.uncg.edu,ok,7,20210216,20210216,https://catalog.uncg.edu/business-economics/information-systems-supply-chain-management/information-assurance-security-and-privacy-pbc/
+199148,University of North Carolina at Greensboro,www.uncg.edu,ok,108,20000819,20230207,https://www.uncg.edu/degrees/cyber-security-p-b-c/
+215293,University of Pittsburgh-Pittsburgh Campus,catalog.pitt.edu,ok,0,,,
+215293,University of Pittsburgh-Pittsburgh Campus,www.pitt.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+233277,Radford University,catalog.radford.edu,ok,2,20240707,20240707,https://catalog.radford.edu/preview_program.php?catoid=45&poid=5093&hl=Cybersecurity&returnto=search
+233277,Radford University,www.radford.edu,ok,223,20000817,20190723,https://www.radford.edu/content/csat/home/itec/programs/cybersecurity.html
+225511,University of Houston,catalog.uh.edu,ok,0,,,
+225511,University of Houston,www.uh.edu,ok,500,20000903,20180521,http://www.uh.edu:80/news-events/stories/2018/may2018/05162018cybersecurity-programs-ranking.php
+222831,Angelo State University,catalog.angelo.edu,ok,0,,,
+222831,Angelo State University,www.angelo.edu,ok,204,20040710,20150905,"http://www.angelo.edu/content/image/gid/256/width/275/height/275/crop/1/src_region/213,56,428,271/20795_cyber_security_certificate.jpg"
+175856,Jackson State University,catalog.jsums.edu,ok,0,,,
+175856,Jackson State University,www.jsums.edu,err:IncompleteRead(21476 bytes read),0,,,
+145600,University of Illinois Chicago,catalog.uic.edu,ok,0,,,
+145600,University of Illinois Chicago,www.uic.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+126775,Colorado School of Mines,catalog.mines.edu,ok,0,,,
+126775,Colorado School of Mines,www.mines.edu,ok,94,20220302,20220302,https://www.mines.edu/?dm=4a20b2ebee4d0d0180c40e46d5fd4f21&action=load&blogid=156&siteid=1&t=466731874&back=https%3A%2F%2Fonline.mines.edu%2Fcybersecurity-graduate-certificate%2F
+229814,West Texas A & M University,catalog.wtamu.edu,ok,0,,,
+229814,West Texas A & M University,www.wtamu.edu,ok,16,19970327,20220302,https://www.wtamu.edu/_files/images/academics/extended-studies/pd-cybersecurity.png
+145336,Governors State University,catalog.govst.edu,ok,0,,,
+145336,Governors State University,www.govst.edu,ok,25,19970725,20150322,http://www.govst.edu/browse/it-degree/certificate-in-information-security/
+482158,Middle Georgia State University,catalog.mga.edu,ok,0,,,
+482158,Middle Georgia State University,www.mga.edu,ok,129,20140701,20160503,http://www.mga.edu:80/information-technology/programs.aspx?c=cyber-forensics
+229063,Texas Southern University,catalog.tsu.edu,ok,0,,,
+229063,Texas Southern University,www.tsu.edu,ok,11,20151019,20221128,http://www.tsu.edu/_content_blocks/home/cyber-monday-sale-banner.jpg
+137351,University of South Florida,catalog.usf.edu,ok,8,20250328,20250328,https://catalog.usf.edu/preview_program.php?poid=11312&hl=%22Cybersecurity%22&returnto=search&catoid=22
+137351,University of South Florida,www.usf.edu,ok,1892,19971010,20001215,http://www.usf.edu:80/Academics_Research/cyberspace.html
+214591,Pennsylvania State University-Penn State Erie-Behrend College,behrend.psu.edu,ok,39,20100614,20171024,http://behrend.psu.edu/school-of-engineering/programs-events/school-of-engineering-speakers-series/fall-2016-speaker-event-cybersecurity-panel-discussion
+214591,Pennsylvania State University-Penn State Erie-Behrend College,catalog.psu.edu,ok,0,,,
+171128,Michigan Technological University,catalog.mtu.edu,ok,0,,,
+171128,Michigan Technological University,www.mtu.edu,err:HTTP Error 429: Too Many Requests,0,,,
+185590,Montclair State University,catalog.montclair.edu,err:HTTP Error 429: Too Many Requests,0,,,
+185590,Montclair State University,www.montclair.edu,err:HTTP Error 429: Too Many Requests,0,,,
+228769,The University of Texas at Arlington,catalog.uta.edu,ok,5,20250727,20250727,https://catalog.uta.edu/engineering/computer/graduate/cyber-sec-privacy-cert/
+228769,The University of Texas at Arlington,www.uta.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+206084,University of Toledo,catalog.utoledo.edu,ok,15,20190820,20190820,https://catalog.utoledo.edu/graduate/engineering/departments/electrical-engineering-computer-science/graduate-certificate-in-cybersecurity/
+206084,University of Toledo,www.utoledo.edu,ok,67,19990914,20190718,https://www.utoledo.edu/offices/internalaudit/institutional-compliance/maintaininginformationsecurityprogram.html
+215293,University of Pittsburgh-Pittsburgh Campus,www.pitt.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+175856,Jackson State University,www.jsums.edu,err:IncompleteRead(32915 bytes read),0,,,
+145600,University of Illinois Chicago,www.uic.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+171128,Michigan Technological University,www.mtu.edu,ok,720,20110102,20110102,http://www.mtu.edu/gradschool/programs/degrees/images/brain-cyber.jpg
+185590,Montclair State University,catalog.montclair.edu,err:HTTP Error 429: Too Many Requests,0,,,
+185590,Montclair State University,catalog.montclair.edu,ok,21,20190920,20190920,http://catalog.montclair.edu/programs/cybersecurity-ms/
+185590,Montclair State University,www.montclair.edu,ok,164,20060903,20190721,https://www.montclair.edu/continuing-and-professional-education/cybersecurity-certificate/
+228769,The University of Texas at Arlington,www.uta.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+165024,Bridgewater State University,catalog.bridgew.edu,ok,4,20250113,20250113,https://catalog.bridgew.edu/widget-api/catalog/17/programs/?page-size=100&page=1&name=Cybercriminology%20and%20Cybersecurity%2C%20Graduate%20Certificate
+165024,Bridgewater State University,www.bridgew.edu,ok,196,20020311,20210531,https://www.bridgew.edu/sites/bridgew/files/styles/390x230/public/media/article_featured_image/BSU_CyberBears1.jpeg?h=af598d2c
+187134,The College of New Jersey,catalog.tcnj.edu,ok,0,,,
+187134,The College of New Jersey,www.tcnj.edu,ok,48,19970623,20130809,http://www.tcnj.edu/~chuj/week2/phpinfo.php?a%5B%5D=%3Ca+href%3Dhttp%3A%2F%2Fnimue-new.cyberstreet.com%2Fmodus%2Finfo.php%3Fa%255B%255D%3DIntroducing%2BNo-Fuss%2BPrograms%2BOf%2Bdentist%2B-%2B%253Ca%2Bhref%253Dhttp%253A%252F%252Foviedo-dentist.com%3E_GET%5B%22a%22%5D+Array+%28+%5B0%5D+%3D%3E+Introducing+No-Fuss+Programs+Of+dentist+-%3C%2Fa%3E
+151102,Purdue University Fort Wayne,catalog.pfw.edu,ok,0,,,
+151102,Purdue University Fort Wayne,www.pfw.edu,ok,14,20231108,20250423,https://www.pfw.edu/academics-research/majors-minors/cyber-security-minor
+183062,Keene State College,catalog.keene.edu,ok,4,20230420,20230420,https://catalog.keene.edu/bachelors-degree-programs/cybersecurity-bs/
+183062,Keene State College,www.keene.edu,ok,88,20230511,20230511,https://www.keene.edu/academics/programs/cybersecurity/
+188030,New Mexico State University-Main Campus,catalog.nmsu.edu,ok,0,,,
+188030,New Mexico State University-Main Campus,www.nmsu.edu,err:HTTP Error 429: Too Many Requests,0,,,
+188030,New Mexico State University-Main Campus,www.nmsu.edu,ok,3,20060922,20260730,https://nmsu.edu/degree-programs/images/Cybersecurity-thumbnail.png
+196130,SUNY Buffalo State University,catalog.buffalostate.edu,ok,0,,,
+196130,SUNY Buffalo State University,suny.buffalostate.edu,ok,39,20200922,,
+163453,Morgan State University,catalog.morgan.edu,ok,0,,,
+163453,Morgan State University,www.morgan.edu,ok,67,20130306,20130306,http://www.morgan.edu:80/school_of_computer_mathematical_and_natural_sciences/high_school_outreach/cyberstars_program.html
+441900,Nevada State University,catalog.nevadastate.edu,ok,0,,,
+441900,Nevada State University,www.nevadastate.edu,ok,9,20231003,,
+110705,University of California-Santa Barbara,catalog.ucsb.edu,ok,0,,,
+110705,University of California-Santa Barbara,www.ucsb.edu,ok,1,20151029,,
+159416,Louisiana State University-Shreveport,catalog.lsus.edu,ok,0,,,
+159416,Louisiana State University-Shreveport,www.lsus.edu,ok,47,20200812,20210307,http://www.lsus.edu/images/21-LSUS-0033c%20Cyber%20Degree%20Web%20Banner%20P1%20UPLOAD.jpg
+232681,University of Mary Washington,catalog.umw.edu,ok,7,20200517,20200517,https://catalog.umw.edu/undergraduate/minors/cybersecurity/
+232681,University of Mary Washington,www.umw.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+232681,University of Mary Washington,www.umw.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+151351,Indiana University-Bloomington,bloomington.iu.edu,ok,23,20240127,20240729,https://bloomington.iu.edu/?title=IU%20Pervasive%20Technology%20Institute%20to%20provide%20cybersecurity%20support%20on%20major%20Homeland%20Security%20grant&url=https://newsinfo.iu.edu/news/page/normal/23478.html
+151351,Indiana University-Bloomington,catalog.iu.edu,ok,0,,,
+196024,SUNY College of Technology at Delhi,catalog.delhi.edu,ok,0,,,
+196024,SUNY College of Technology at Delhi,www.delhi.edu,ok,14,20040907,20201216,https://www.delhi.edu/images/Cyber-operations-bachelor.jpg
+127185,Fort Lewis College,catalog.fortlewis.edu,ok,0,,,
+127185,Fort Lewis College,www.fortlewis.edu,ok,40,20110718,,
+214698,Pennsylvania State University-Penn State Beaver,beaver.psu.edu,ok,25,20171023,20200930,https://beaver.psu.edu/academics/degrees/cybersecurity/careers
+214698,Pennsylvania State University-Penn State Beaver,catalog.psu.edu,ok,0,,,
+196176,State University of New York at New Paltz,catalog.newpaltz.edu,ok,0,,,
+196176,State University of New York at New Paltz,www.newpaltz.edu,ok,1,19971110,,
+221838,Tennessee State University,catalog.tnstate.edu,ok,0,,,
+221838,Tennessee State University,www.tnstate.edu,ok,122,20111005,20211018,https://www.tnstate.edu/computer_science/documents/Computer_Science_Cybersecurity_Networking_Concentration_2020_2021.pdf
+230764,University of Utah,catalog.utah.edu,ok,0,,,
+230764,University of Utah,www.utah.edu,ok,6,19970723,,
+181464,University of Nebraska-Lincoln,catalog.unl.edu,ok,2,20250613,20250613,https://catalog.unl.edu/law/space-cyber-national-security-llm/
+181464,University of Nebraska-Lincoln,www.unl.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+167987,University of Massachusetts-Dartmouth,catalog.umassd.edu,err:HTTP Error 429: Too Many Requests,0,,,
+181464,University of Nebraska-Lincoln,www.unl.edu,err:HTTP Error 429: Too Many Requests,0,,,
+181464,University of Nebraska-Lincoln,www.unl.edu,ok,27,19970806,,
+167987,University of Massachusetts-Dartmouth,catalog.umassd.edu,ok,0,,,
+167987,University of Massachusetts-Dartmouth,www.umassd.edu,ok,443,19970406,19970406,http://www.umassd.edu:80/cybered/certificate.html
+128391,Western Colorado University,catalog.western.edu,ok,2,20220308,20220308,https://catalog.western.edu/undergraduate/programs/computer-science/computer-science-comprehensive-information-security/
+128391,Western Colorado University,www.western.edu,ok,40,20101004,20190824,https://www.western.edu/academics/undergraduate/computer-science/information-security
+140960,Savannah State University,catalog.savannahstate.edu,ok,4,20220706,20220706,http://catalog.savannahstate.edu/mime/media/9/1348/ComputerScience_CyberSecurity_ProgramMap_2122.pdf
+140960,Savannah State University,www.savannahstate.edu,ok,17,20170505,20220706,https://www.savannahstate.edu//registrar/program-maps/computerccience_cybersecurity_programmap_2122.pdf
+237525,Marshall University,catalog.marshall.edu,ok,44,20201124,20201124,https://catalog.marshall.edu/undergraduate/programs-az/science/cyber-forensics-security/
+237525,Marshall University,www.marshall.edu,ok,2626,20020105,20120721,http://www.marshall.edu:80/graduate/certificates/infosecurity.asp
+240374,University of Wisconsin-Parkside,catalog.uwp.edu,ok,6,20211019,20211019,https://catalog.uwp.edu/graduate-programs-policies/cybersecurity-ms/
+240374,University of Wisconsin-Parkside,www.uwp.edu,ok,50,20000508,20070714,http://www.uwp.edu:80/departments/computer.science/cyber.security.certificate/
+214713,Pennsylvania State University-Penn State Harrisburg,catalog.psu.edu,ok,0,,,
+214713,Pennsylvania State University-Penn State Harrisburg,harrisburg.psu.edu,ok,77,20120909,20191103,https://harrisburg.psu.edu/tags/cybersecurity-analytics-and-operations-penn-state-engineering-entrepreneurship-minor-college
+132903,University of Central Florida,catalog.ucf.edu,ok,1,20160804,20160804,http://catalog.ucf.edu:80/Content/Documents/Programs/Cyber_Operations_Certificate.pdf
+132903,University of Central Florida,www.ucf.edu,ok,763,20131107,20150907,http://www.ucf.edu/academics/cyber-operations/
+166629,University of Massachusetts-Amherst,catalog.umass.edu,ok,0,,,
+166629,University of Massachusetts-Amherst,www.umass.edu,err:HTTP Error 504: Gateway Time-out,0,,,
+166629,University of Massachusetts-Amherst,www.umass.edu,err:HTTP Error 504: Gateway Time-out,0,,,

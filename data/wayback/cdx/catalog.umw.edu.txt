@@ -1,0 +1,7 @@
+20240707234018 https://catalog.umw.edu/search/?search=cyber
+20200517215157 https://catalog.umw.edu/undergraduate/majors/cybersecurity/
+20200520095234 https://catalog.umw.edu/undergraduate/majors/cybersecurity/cybersecurity.pdf
+20200813063733 https://catalog.umw.edu/undergraduate/majors/cybersecurity/index.html
+20200517215149 https://catalog.umw.edu/undergraduate/minors/cybersecurity/
+20200520095124 https://catalog.umw.edu/undergraduate/minors/cybersecurity/cybersecurity.pdf
+20200813063704 https://catalog.umw.edu/undergraduate/minors/cybersecurity/index.html

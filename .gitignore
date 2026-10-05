@@ -1,0 +1,10 @@
+# Never publish API keys
+notes/*key*.txt
+notes/README_setup_old.md
+# Raw downloads are large (~4 GB); scripts/00_download_raw.sh re-creates them
+data/raw/
+.DS_Store
+
+# Working drafts of the note; only the final PDF is published
+Research Note/
+~$*
